@@ -1,0 +1,1 @@
+use annotation and java configuration in spring
